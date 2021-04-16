@@ -15,6 +15,7 @@ body{
     padding: 20px 10px;
     background: #92fc92;
     border-radius: 25px;
+    box-shadow: 8px 5px;
 }
 
 .assignment img {
